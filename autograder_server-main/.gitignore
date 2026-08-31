@@ -1,0 +1,14 @@
+# Build artifacts
+server
+*.out
+*.exe
+*.o
+
+# Autograder outputs and temporary files
+my_output.txt
+custom_in.txt
+custom_expected.txt
+workspace_*/
+
+# IDE settings
+.vscode/
