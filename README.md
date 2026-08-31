@@ -107,9 +107,3 @@ Execute the evaluation suite against a directory of submissions:
 ```bash
 python src/main.py --submissions ./path/to/submissions --tests ./path/to/test_cases --output ./grades.csv
 ```
-
----
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
